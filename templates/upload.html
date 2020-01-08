@@ -1,0 +1,12 @@
+{% extends "index.html" %}
+{% block content %}
+
+    <form action = "http://localhost:5000/uploader" method = "POST"
+         enctype = "multipart/form-data">
+        <input type="radio" name="form" value=1> Trial Balance 25.15.2<br>
+        <input type="radio" name="form" value=2> Account Detail 25.15.4<br>
+        <input type="radio" name="form" value=3> AP Aging report<br>
+        <input type = "file" name = "file" />
+        <input type = "submit"/>
+    </form>
+{% endblock %}

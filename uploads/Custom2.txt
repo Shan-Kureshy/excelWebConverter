@@ -1,0 +1,206 @@
+xxdabrp.p 02                                  25.16.2 * Custom Acct Bal Detail w/Names                                               Date: 11/26/19
+Page:    1                                                AUTOGENOMICS, INC.                                                         Time: 15:40:52
+
+AutoGenomics, Inc.        Reporting Currency:   USD
+                              Exchange Rate:
+
+                                                                                                            Period Activity       Period Activity
+Account                       Description                                                                            Debits               Credits
+--------------------------    --------------------------                                                 ------------------    ------------------
+ 10102                   CWB_New Ops_5928                     367,980.85  
+  Period 10/2019 
+   10/02/19 AP191002060699          00004913 COVERED CALIFORNIA FOR        19075    CKPW202037                         0.00             19,428.86
+   10/03/19 AP191003060697          00004877 BLUE SHIELD OF CALIFORNIA     19073    CKPW202035                         0.00              2,104.50
+   10/03/19 AP191003060698          00004921 THE HARTFORD                  19074    CKPW202036                         0.00              1,800.11
+   10/04/19 AP191004060700          00002402 ALL BUSINESS PRODUCTS         19076    CKPN1680                           0.00                269.51
+   10/04/19 AP191004060701          00001904 AT&T LONG DISTANCE            19076    CKPN1681                           0.00                 22.07
+   10/04/19 AP191004060702          00004767 CALGAM PARTNERS LP            19076    CKPN1682                           0.00              1,961.00
+   10/04/19 AP191004060703          00001226 CITY OF CARLSBAD - WATER      19076    CKPN1683                           0.00                408.68
+   10/04/19 AP191004060704          00004745 CRC PROJECT ONE LP            19076    CKPN1684                           0.00             65,420.00
+   10/04/19 AP191004060705          00004856 DARRELL W COOK & ASSOCIATES   19076    CKPN1685                           0.00                 30.00
+   10/04/19 AP191004060706          00002555 EVELYN LOPEZ                  19076    CKPN1686                           0.00                745.01
+   10/04/19 AP191004060707          00001384 FEDEX                         19076    CKPN1687                           0.00              1,698.30
+   10/04/19 AP191004060708          00004935 HOME DEPOT CREDIT SERVICES    19076    CKPN1688                           0.00                161.94
+   10/04/19 AP191004060709          00001517 LIFE TECHNOLOGIES CORP.       19076    CKPN1689                           0.00                488.50
+   10/04/19 AP191004060710          00004959 LUXOR SCIENTIFIC, LLC         19076    CKPN1690                           0.00                553.71
+   10/04/19 AP191004060711          00004835 OFFICE 1                      19076    CKPN1691                           0.00                 34.63
+   10/04/19 AP191004060712          00004937 PAGELL CORPORATION            19076    CKPN1692                           0.00              1,975.00
+   10/04/19 AP191004060713          00004961 PAUL J. KREIS                 19076    CKPN1693                           0.00                750.00
+   10/04/19 AP191004060714          00001960 PROVIDIEN THERMOFORMING, INC  19076    CKPN1694                           0.00                215.52
+   10/04/19 AP191004060715          00001987 SWISHMAIL.COM                 19076    CKPN1695                           0.00              1,367.04
+   10/04/19 AP191004060716          00004786 VEOLA JACKSON                 19076    CKPN1696                           0.00                 33.01
+   10/07/19 AP191007060723          00004922 AMERICAN EXPRESS -xxx2028     19082    CKPA1016                           0.00              6,217.22
+   10/07/19 AP191007060724          00004772 WASTE MANAGEMENT              19083    CKPW202038                         0.00                245.77
+   10/07/19 AP191007060730          00003145 AIRGAS GAS OPERATIONS         19088    CKPW202041                         0.00                646.48
+   10/07/19 AP191007060731          00004956 APPALACHIA TECHNOLOGIES LLC   19088    CKPW202042                         0.00              6,440.00
+   10/07/19 AP191007060732          00004785 BULLSEYE TELECOM INC          19088    CKPW202043                         0.00                397.28
+   10/07/19 AP191007060733          00001395 FISHER SCIENTIFIC             19088    CKPW202044                         0.00              9,985.97
+   10/07/19 AP191007060734          00001513 INTEGRATED DNA TECHNOLOGIES   19088    CKPW202045                         0.00                241.00
+   10/07/19 AP191007060735          00001573 LANDSBERG ORORA               19088    CKPW202046                         0.00              1,056.90
+   10/07/19 AP191007060736          00001691 NEW ENGLAND BIOLABS           19088    CKPW202047                         0.00                345.00
+   10/07/19 AP191007060737          00004947 PD BIOTECH LLC                19088    CKPW202048                         0.00              5,000.00
+   10/07/19 AP191007060738          00004933 PLANTE & MORAN, PLLC          19088    CKPW202049                         0.00              6,060.00
+   10/07/19 AP191007060739          00001868 ROCHE DIAGNOSTICS CORP        19088    CKPW202050                         0.00              5,124.25
+   10/07/19 AP191007060740          00002212 TAKARA BIO USA, INC.          19088    CKPW202051                         0.00              2,401.19
+   10/07/19 AP191007060741          00002067 ULINE SHIPPING SUPPLY         19088    CKPW202052                         0.00                617.21
+   10/08/19 AP191008060728          00002643 COLONIAL SUPPLEMENTAL INS.    19086    CKPW202039                         0.00                 70.78
+   10/08/19 AP191008060729          00004519 WELLS FARGO VENDOR            19087    CKPW202040                         0.00                329.56
+   10/11/19 AP191011060760          00004783 ACC BUSINESS                  19094    CKPN1697                           0.00              1,361.44
+   10/11/19 AP191011060761          00004955 DEWEY PEST CONTROL            19094    CKPN1698                           0.00                150.00
+   10/11/19 AP191011060762          00003018 DR. LAURENCE M. DEMERS        19094    CKPN1699                           0.00              2,000.00
+   10/11/19 AP191011060763          00001384 FEDEX                         19094    CKPN1700                           0.00              1,151.79
+   10/11/19 AP191011060764          00001517 LIFE TECHNOLOGIES CORP.       19094    CKPN1701                           0.00                265.00
+xxdabrp.p 02                                  25.16.2 * Custom Acct Bal Detail w/Names                                               Date: 11/26/19
+Page:    2                                                AUTOGENOMICS, INC.                                                         Time: 15:40:52
+
+AutoGenomics, Inc.        Reporting Currency:   USD
+                              Exchange Rate:
+
+                                                                                                            Period Activity       Period Activity
+Account                       Description                                                                            Debits               Credits
+--------------------------    --------------------------                                                 ------------------    ------------------
+ 10102                   CWB_New Ops_5928 ((Con.)        
+  Period 10/2019 
+   10/11/19 AP191011060765          00004119 MEDICAL DEVICE SAFETY         19094    CKPN1702                           0.00              2,372.46
+   10/15/19 AP191015060836          00002889 NEW JERSEY DIVISION OF TAX    19125    CKPW202072                         0.00                 23.00
+   10/16/19 AP191016060786          00004026 YASEMIN DALLI                 19105    CKPW202053                         0.00                419.70
+   10/16/19 AP191016060787          00004026 YASEMIN DALLI                 19106    CKPW202054                         0.00              7,500.00
+   10/16/19 AP191016060788          00002182 MANGESH DAULKAR               19107    CKPW202055                         0.00              2,100.00
+   10/16/19 AP191016060789          00001806 PRADNYA GOKHALE               19108    CKPW202056                         0.00              3,300.00
+   10/16/19 AP191016060792          00003145 AIRGAS GAS OPERATIONS         19111    CKPW202057                         0.00                414.32
+   10/16/19 AP191016060793          00004879 EVOQUA WATER TECHNOLOGIES     19111    CKPW202058                         0.00                 57.50
+   10/16/19 AP191016060794          00001395 FISHER SCIENTIFIC             19111    CKPW202059                         0.00              2,717.63
+   10/16/19 AP191016060795          00004664 GENEWIZ, LLC                  19111    CKPW202060                         0.00                 16.30
+   10/16/19 AP191016060796          00001513 INTEGRATED DNA TECHNOLOGIES   19111    CKPW202061                         0.00              1,958.25
+   10/16/19 AP191016060797          00004814 MINTZ LEVIN COHN FERRIS       19111    CKPW202062                         0.00              6,011.88
+   10/16/19 AP191016060798          00004958 ORCHARD SOFTWARE CORPORATION  19111    CKPW202063                         0.00              6,455.00
+   10/16/19 AP191016060799          00001868 ROCHE DIAGNOSTICS CORP        19111    CKPW202064                         0.00              8,848.11
+   10/16/19 AP191016060800          00004329 SIMPLELIMS.COM                19111    CKPW202065                         0.00             10,000.00
+   10/16/19 AP191016060801          00002921 TRUMP CARD                    19111    CKPW202066                         0.00                883.13
+   10/16/19 AP191016060802          00002067 ULINE SHIPPING SUPPLY         19111    CKPW202067                         0.00                 58.10
+   10/16/19 AP191016060803          00002097 VIJAY MAHANT,  Ph.D           19111    CKPW202068                         0.00             16,000.00
+   10/16/19 AP191016060834          00004415 ALABAMA DEPT. OF REVENUE      19124    CKPW202071                         0.00              1,378.56
+   10/17/19 AP191017060807          00004844 FIRST INSURANCE FUNDING CORP  19113    CKPW202069                         0.00              5,447.59
+   10/17/19 AP191017060809          00004772 WASTE MANAGEMENT              19114    CKPW202070                         0.00                457.98
+   10/17/19 AP191017060809          00004772 WASTE MANAGEMENT              19114    CKPW202070                        85.10                  0.00
+   10/22/19 AP191022061112          00004415 ALABAMA DEPT. OF REVENUE      19229    CKPW202095                         0.00                220.00
+   10/22/19 AP191022061113          00004882 CA DEPT OF TAX & FEE ADMIN.   19229    CKPW202096                         0.00                524.00
+   10/22/19 AP191022061114          00002751 FLORIDA DEPT OF REVENUE       19229    CKPW202097                         0.00                505.49
+   10/22/19 AP191022061115          00003337 GEORGIA DEPT OF REVENUE       19229    CKPW202098                         0.00              1,127.14
+   10/22/19 AP191022061116          00003280 TEXAS STATE COMPTROLLER       19229    CKPW202099                         0.00              1,984.71
+   10/22/19 AP191022061118          00004415 ALABAMA DEPT. OF REVENUE      19230    CKPW202100                         0.00                516.31
+   10/23/19 AP191023060872          00004913 COVERED CALIFORNIA FOR        19135    CKPN1703                           0.00              1,591.86
+   10/28/19 AP191028060926          00004972 C & L REFRIGERATION CORP.     19161    CKPN1704                           0.00              2,891.35
+   10/01/19 AR191001010355          00600881 HENRY SCHEIN                  17727    P 00600881ACH10119             1,986.32                  0.00
+   10/03/19 AR191003010356          00600403 COVANCE INDY - A CLS LP       17728    P 00600403ACH10319            22,840.62                  0.00
+   10/03/19 AR191003010357          00600847 MADISON CORE                  17728    P 0060084710319ACH             6,170.40                  0.00
+   10/07/19 AR191007010358          00600798 ADVANCED DIAGNOSTICS LAB      17731    P 00600798CC10719                465.26                  0.00
+   10/09/19 AR191009010359          00600802 BIO GENETYISYS, INC           17734    P 00600802CC10919              4,904.49                  0.00
+   10/09/19 AR191009010360          00600865 BEINGENETICS B.V.             17734    P 00600865W10919              20,489.00                  0.00
+   10/09/19 AR191009010361          00600881 HENRY SCHEIN                  17734    P 00600881ACH10919               990.09                  0.00
+   10/11/19 AR191011010369          00600635 ADVANTA TOXICOLOGY, LLC       17738    P 006006354598                12,679.84                  0.00
+   10/14/19 AR191014010363          00600447 INFINITI LABS, INC.           17737    P 0060044713533                5,526.62                  0.00
+   10/14/19 AR191014010367          00600447 INFINITI LABS, INC.           17737    P 0060044713533                    0.00              5,526.62
+   10/14/19 AR191014010368          00600447 INFINITI LABS, INC.           17737    P 0060044713533                7,726.62                  0.00
+xxdabrp.p 02                                  25.16.2 * Custom Acct Bal Detail w/Names                                               Date: 11/26/19
+Page:    3                                                AUTOGENOMICS, INC.                                                         Time: 15:40:52
+
+AutoGenomics, Inc.        Reporting Currency:   USD
+                              Exchange Rate:
+
+                                                                                                            Period Activity       Period Activity
+Account                       Description                                                                            Debits               Credits
+--------------------------    --------------------------                                                 ------------------    ------------------
+ 10102                   CWB_New Ops_5928 ((Con.)        
+  Period 10/2019 
+   10/14/19 AR191014010368          00600447 INFINITI LABS, INC.           17737    P 0060044713533                    0.00              2,500.00
+   10/15/19 AR191015010374          00600403 COVANCE INDY - A CLS LP       17742    P 00600403101519AC               385.13                  0.00
+   10/15/19 AR191015010375          00600881 HENRY SCHEIN                  17742    P 00600881AC101519             9,860.65                  0.00
+   10/15/19 AR191015010375          00600881 HENRY SCHEIN                  17742    P 00600881AC101519                 0.00              4,955.10
+   10/15/19 AR191015010377          00600881 HENRY SCHEIN                  17742    P 00600881AC101519                 0.00              4,905.55
+   10/15/19 AR191015010378          00600881 HENRY SCHEIN                  17742    P 00600881AC101519             4,905.55                  0.00
+   10/16/19 AR191016010379          00600881 HENRY SCHEIN                  17743    P 00600881ACH10161               656.67                  0.00
+   10/17/19 AR191017010382          00600403 COVANCE INDY - A CLS LP       17747    P 00600403101719AC               195.51                  0.00
+   10/21/19 AR191021010383          00600226 BUHLMANN LABORATORIES AG      17749    P 00600226W102119              1,945.96                  0.00
+   10/23/19 AR191023010384          00600829 LUXOR SCIENTIFIC, LLC         17751    P 00600829996580                 117.71                  0.00
+   10/24/19 AR191024010385          00600863 DNA MED TUNING LLC            17755    P 00600863CC102419             4,716.15                  0.00
+   10/24/19 AR191024010386          00600403 COVANCE INDY - A CLS LP       17755    P 00600403W102419              3,746.93                  0.00
+   10/24/19 AR191024010387          00600674 AURORA DIAGNOSTICS            17756    P 00600674205254               6,888.09                  0.00
+   10/25/19 AR191025010388          00600909 GREAT LAKES MEDICAL LAB       17758    P 00600909CC102419               366.21                  0.00
+   10/28/19 AR191028010389          00600403 COVANCE INDY - A CLS LP       17759    P 00600403W102819                292.35                  0.00
+   10/28/19 AR191028010390          00600635 ADVANTA TOXICOLOGY, LLC       17759    P 006006354617                   812.07                  0.00
+   10/28/19 AR191028010395          00600731 HEALTH 360 LABS               17762    P 00600731CC102819                 0.00              4,807.31
+   10/28/19 AR191028010395          00600731 HEALTH 360 LABS               17762    P 00600731CC102819            10,807.31                  0.00
+   10/28/19 AR191028010396          00600563 COMPASS LAB SERVICES          17766    P 006005632195                 6,000.00                  0.00
+   10/28/19 AR191028010397          00600829 LUXOR SCIENTIFIC, LLC         17766    P 00600829996592               6,349.44                  0.00
+   10/28/19 AR191028010400          00600447 INFINITI LABS, INC.           17768    P 0060044713534                5,226.62                  0.00
+   10/29/19 AR191029010399          00600816 OXY-GEN LABORATORY            17767    P 00600816ACH1028             20,514.00                  0.00
+   10/30/19 AR191030010401          00600846 HARTFORD HOSPITAL             17770    P 00600846CC103019               370.00                  0.00
+   10/30/19 AR191030010403          00600829 LUXOR SCIENTIFIC, LLC         17772    P 00600829996598                 111.28                  0.00
+   10/31/19 AR191031010404          00600403 COVANCE INDY - A CLS LP       17773    P 00600403103119AC               405.71                  0.00
+   10/01/19 JL191002000001          NO ADDR  401k pr 9-26-19                                                           0.00              1,983.42
+   10/01/19 JL191028000003          NO ADDR  Analyis Fee                                                               0.00                148.00
+   10/02/19 JL191028000004          NO ADDR  EPN Fees                                                                  0.00                 10.30
+   10/02/19 JL191030000001          NO ADDR  Pay Forward CC fee                                                        0.00                390.82
+   10/09/19 JL191028000005          NO ADDR  Xfter into PR account                                                     0.00            116,895.71
+   10/11/19 JL191016000001          NO ADDR  ck#5879 AMS Sept 19                                                      11.00                  0.00
+   10/15/19 JL191024000004          NO ADDR  401K PR 10-11-19                                                          0.00              2,410.70
+   10/21/19 JL191028000006          NO ADDR  Working Cap Recd                                                    135,000.00                  0.00
+   10/23/19 JL191024000003          NO ADDR  Xfer Payroll 10-24-19                                                     0.00            134,793.31
+   10/24/19 JL191024000001          NO ADDR  ADP2Q 2019 TAX REFUND                                                    31.52                  0.00
+   10/24/19 JL191105000001          NO ADDR  Xfter into PR Acct                                                        0.00                725.25
+   10/25/19 JL191028000001          NO ADDR  RECLASS GL                                                            1,591.86                  0.00
+   10/28/19 JL191028000002          NO ADDR  401K PR 10/25                                                             0.00              2,535.55
+   10/31/19 JL191101000001          NO ADDR  Working Capital                                                     420,000.00                  0.00
+                                                                                                         ------------------    ------------------
+                                                                                                                 725,172.08            517,942.24
+ Activity To Date: 10/01/19 - 10/31/19                        207,229.84  
+ Ending Balance:   10/31/19                                   575,210.69  
+
+xxdabrp.p 02                                  25.16.2 * Custom Acct Bal Detail w/Names                                               Date: 11/26/19
+Page:    4                                                AUTOGENOMICS, INC.                                                         Time: 15:40:52
+
+AutoGenomics, Inc.        Reporting Currency:   USD
+                              Exchange Rate:
+
+                                                                                                            Period Activity       Period Activity
+Account                       Description                                                                            Debits               Credits
+--------------------------    --------------------------                                                 ------------------    ------------------
+Currency:                                                USD
+Total Beginning Balance:                          367,980.85   
+Total Activity To Date:                           207,229.84   
+Total Ending Balance:                             575,210.69   
+
+
+                                                           End of Report
+xxdabrp.p 02                                  25.16.2 * Custom Acct Bal Detail w/Names                                               Date: 11/26/19
+Page:    5                                                AUTOGENOMICS, INC.                                                         Time: 15:40:52
+
+AutoGenomics, Inc.        Reporting Currency:   USD
+                              Exchange Rate:
+
+                                                                                                            Period Activity       Period Activity
+Account                       Description                                                                            Debits               Credits
+--------------------------    --------------------------                                                 ------------------    ------------------
+
+
+
+
+Report Criteria:                        Report Submitted By:       mshanaha
+
+                       Entity: 10              To: 10
+                  Description: AutoGenomics, Inc.
+                      Account: 10102           To: 10102
+                  Sub-Account:                 To:
+                  Cost Center:                 To:
+               Effective Date: 10/01/19        To: 10/31/19
+                     Customer:                 To:
+      Transaction Totals Only: No
+                     Currency: USD
+  Round to Nearest Whole Unit: No
+        Print Document Detail: Yes
+           Reporting Currency: USD
+
+    Show Non-Selected Transactions: Yes                      Output: Text
+                                                           Batch ID:
+

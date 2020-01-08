@@ -1,0 +1,925 @@
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    1                                                AUTOGENOMICS, INC.                                          Time: 13:35:45
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 10100                  Checking_CWB_2697                    167,549.19           162,942.31cr           4,606.88  
+ 10212                  Chekcing_WF_LBx_6269                      66.59                  .00                66.59  
+ 10420                  PDXL Subcontract                      34,240.00             2,615.00cr          31,625.00  
+ 10435                  PDXL COMM Billed                         125.00cr             125.00                  .00  
+ 10500                  AGMX Domestic                        316,209.12           124,202.30cr         192,006.82  
+ 10510                  AGMX International                    37,094.28            36,585.24cr             509.04  
+ 10610                  Employee Advance                       4,000.00             3,000.00cr           1,000.00  
+ 10620                  Prepaid Expense -Amort                22,634.80             8,574.31cr          14,060.49  
+ 10650                  Prepaid Expense- POs                  87,799.62             1,238.20cr          86,561.42  
+ 10660                  Prepaid Credit Card                      167.19                  .00               167.19  
+ 10900                  RESERVE AGMX Domestic              1,816,536.09cr                .00         1,816,536.09cr
+ 10901                  100% RESERVED A/R                  1,694,467.78                  .00         1,694,467.78  
+ 10920                  RESERVE PDXL SUB                       3,279.69cr                .00             3,279.69cr
+ 11200                  Raw Material                         741,623.16             1,419.89cr         740,203.27  
+ 11205                  Inactive Material                      6,959.11                  .00             6,959.11  
+ 11210                  Raw Material                         352,620.62             8,344.27cr         344,276.35  
+ 11225                  Inv in Transit_INFINITI              434,253.39cr                .00           434,253.39cr
+ 11250                  E&O Reserve - INFINITI                10,000.00cr                .00            10,000.00cr
+ 11260                  E&O Reserve - Reagents               161,328.42cr             300.70           161,027.72cr
+ 11300                  WIP - INFINITI Systems               662,295.11cr                .00           662,295.11cr
+ 11310                  WIP - Reagents                        78,759.90cr           3,217.34cr          81,977.24cr
+ 11320                  Subassembly                          537,436.30               342.78           537,779.08  
+ 11330                  Subassembly                          142,050.60             2,240.70cr         139,809.90  
+ 11390                  R/W - INFINITI Systems               461,556.75                  .00           461,556.75  
+ 11400                  Finished Goods                     1,470,604.81                  .00         1,470,604.81  
+ 11410                  Finished Goods                       261,250.36             4,602.46cr         256,647.90  
+ 11420                  Finished Goods                        43,190.74               473.96cr          42,716.78  
+ 11450                  Inventory-PDXL                        37,111.89                  .00            37,111.89  
+ 11490                  Refurbished Systems                  113,421.35                  .00           113,421.35  
+ 13100                  Computer                             168,572.32                  .00           168,572.32  
+ 13100--110               Executive                            4,994.75                  .00             4,994.75  
+ 13100--120               Finance                              5,320.41                  .00             5,320.41  
+ 13100--140               Information Technology              34,111.37                  .00            34,111.37  
+ 13100--210               INFINITI Production                  3,224.89                  .00             3,224.89  
+ 13100--230               Production-Indirect                 21,060.93                  .00            21,060.93  
+ 13100--310               R&D - Instruments                    4,826.46                  .00             4,826.46  
+ 13100--410               Sales - Domestic                     1,261.38                  .00             1,261.38  
+ 13100--430               Marketing                            1,174.01                  .00             1,174.01  
+ 13100--920               PDXL Production                     21,869.91                  .00            21,869.91  
+ 13100--925               PDXL Sales & Marketing               3,769.89                  .00             3,769.89  
+ 13150                  A/D - Computer Equip                  94,851.38cr             658.79cr          95,510.17cr
+ 13150--110               Executive                           12,273.10cr                .00            12,273.10cr
+ 13150--120               Finance                              6,910.98cr                .00             6,910.98cr
+ 13150--140               Information Technology              36,760.24cr                .00            36,760.24cr
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    2                                                AUTOGENOMICS, INC.                                          Time: 13:35:47
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 13150--210               INFINITI Production                  4,708.72cr                .00             4,708.72cr
+ 13150--220               Microarray Production               20,731.25cr                .00            20,731.25cr
+ 13150--230               Production-Indirect                 21,353.55cr                .00            21,353.55cr
+ 13150--310               R&D - Instruments                   46,223.46cr                .00            46,223.46cr
+ 13150--410               Sales - Domestic                     2,652.32cr                .00             2,652.32cr
+ 13150--430               Marketing                            5,159.34cr                .00             5,159.34cr
+ 13150--440               Field Service                        1,320.34cr                .00             1,320.34cr
+ 13150--920               PDXL Production                     10,683.75cr                .00            10,683.75cr
+ 13150--925               PDXL Sales & Marketing               4,051.66cr                .00             4,051.66cr
+ 13200                  Furniture                            155,520.71                  .00           155,520.71  
+ 13200--220               Microarray Production                1,975.00                  .00             1,975.00  
+ 13250                  A/D - Furniture                       33,289.80cr              32.92cr          33,322.72cr
+ 13250--110               Executive                           20,000.00cr                .00            20,000.00cr
+ 13250--130               Facilities                          63,623.12cr                .00            63,623.12cr
+ 13250--210               INFINITI Production                  9,213.41cr                .00             9,213.41cr
+ 13250--220               Microarray Production                2,879.24cr                .00             2,879.24cr
+ 13250--250               Shipping/Receiving                   7,775.63cr                .00             7,775.63cr
+ 13250--430               Marketing                           19,891.71cr                .00            19,891.71cr
+ 13300                  Tools and Equipment                1,779,897.07                  .00         1,779,897.07  
+ 13300--110               Executive                            1,401.84                  .00             1,401.84  
+ 13300--150               Regulatory Affairs/QA               84,485.01                  .00            84,485.01  
+ 13300--220               Microarray Production              353,964.40                  .00           353,964.40  
+ 13300--225               Intellipac Production               16,786.30                  .00            16,786.30  
+ 13300--230               Production-Indirect                 68,874.40                  .00            68,874.40  
+ 13300--270               Quality Control                     97,582.20                  .00            97,582.20  
+ 13300--320               R&D - Reagents                     161,905.29                  .00           161,905.29  
+ 13300--430               Marketing                           14,872.26                  .00            14,872.26  
+ 13300--450               Technical Support                   36,132.07                  .00            36,132.07  
+ 13300--915               PDXL Prod Other                     21,700.00                  .00            21,700.00  
+ 13300--920               PDXL Production                    266,033.12                  .00           266,033.12  
+ 13310                  Leased Capital Equipment             142,023.93                  .00           142,023.93  
+ 13310--110               Executive                            1,677.49cr                .00             1,677.49cr
+ 13350                  A/D - Tools & Equipment              738,667.16cr          14,914.29cr         753,581.45cr
+ 13350--110               Executive                            5,289.53cr                .00             5,289.53cr
+ 13350--130               Facilities                           3,441.79cr                .00             3,441.79cr
+ 13350--140               Information Technology              39,279.69cr                .00            39,279.69cr
+ 13350--150               Regulatory Affairs/QA              125,751.60cr                .00           125,751.60cr
+ 13350--210               INFINITI Production                  5,905.49cr                .00             5,905.49cr
+ 13350--220               Microarray Production              650,648.69cr                .00           650,648.69cr
+ 13350--225               Intellipac Production               63,787.33cr                .00            63,787.33cr
+ 13350--230               Production-Indirect                 58,321.45cr                .00            58,321.45cr
+ 13350--270               Quality Control                    185,256.67cr                .00           185,256.67cr
+ 13350--310               R&D - Instruments                   25,236.53cr                .00            25,236.53cr
+ 13350--320               R&D - Reagents                     226,170.56cr                .00           226,170.56cr
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    3                                                AUTOGENOMICS, INC.                                          Time: 13:35:47
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 13350--430               Marketing                          117,929.35cr                .00           117,929.35cr
+ 13350--440               Field Service                       42,943.75cr                .00            42,943.75cr
+ 13350--450               Technical Support                   19,246.55cr                .00            19,246.55cr
+ 13350--915               PDXL Prod Other                      7,956.74cr                .00             7,956.74cr
+ 13350--920               PDXL Production                    244,972.48cr                .00           244,972.48cr
+ 13360                  A/D - Leased Cap Equip               137,003.82cr                .00           137,003.82cr
+ 13360--110               Executive                            3,342.60cr                .00             3,342.60cr
+ 13500                  Construction in Process               87,640.00                  .00            87,640.00  
+ 14010                  Supplier Deposits                     66,416.00                  .00            66,416.00  
+ 14030                  Legal Retainer Prepaid                28,838.65             3,661.25            32,499.90  
+ 14110                  Security Deposit - SDGE               24,775.00             4,952.00            29,727.00  
+ 14500                  INFINITI Systems - RAP               278,909.85                  .00           278,909.85  
+ 14550                  A/A - RAP                            239,484.26cr           7,787.87cr         247,272.13cr
+ 20000                  Accounts Payable                   5,324,585.88cr          23,802.61cr       5,348,388.49cr
+ 20001                  A/P - Unvouchered                     14,407.44cr                .00            14,407.44cr
+ 20002                  AP-CC-Amx                              1,352.06                  .00             1,352.06  
+ 20010                  Vacation Clearing                    460,402.12cr           7,030.37           453,371.75cr
+ 20015                  Sales Bonus Clearing                 108,766.62cr          14,348.45cr         123,115.07cr
+ 20020                  Payroll Clearing                     166,074.33cr          35,548.64           130,525.69cr
+ 20025                  Unpaid Amount                      3,256,068.22cr         145,558.16cr       3,401,626.38cr
+ 20030                  Accrued Expense                    8,047,237.44cr             165.76cr       8,047,403.20cr
+ 20050                  Payroll Clearing - T&E                      .00             1,620.72             1,620.72  
+ 20060                  Payroll Taxes Clearing                29,395.54cr                .00            29,395.54cr
+ 20070                  Benefits Clearing - 401k               5,181.79cr             155.38             5,026.41cr
+ 20085                  Benefits Clearing - Vol                   23.04               211.76cr             188.72cr
+ 22000                  Sales Tax Payable- CA                    955.77cr             268.93cr           1,224.70cr
+ 22002                  Sales Tax Payable- AL                    685.96cr             666.31cr           1,352.27cr
+ 22006                  Sales Tax Payable- AZ                 15,288.81cr                .00            15,288.81cr
+ 22012                  Sales Tax Payable- CT                     41.33cr              23.16cr              64.49cr
+ 22016                  Sales Tax Payable- FL                  8,435.62             1,108.86cr           7,326.76  
+ 22018                  Sales Tax Payable- GA                  4,274.61cr           2,493.11             1,781.50cr
+ 22026                  Sales Tax Payable- IN                  4,814.05cr                .00             4,814.05cr
+ 22038                  Sales Tax Payable- MD                    403.04cr                .00               403.04cr
+ 22048                  Sales Tax Payable- MO                    188.33cr                .00               188.33cr
+ 22064                  Sales Tax Payable- NC                    462.42cr                .00               462.42cr
+ 22068                  Sales Tax Payable- OH                    535.06                  .00               535.06  
+ 22074                  Sales Tax Payable- PA                    179.11                  .00               179.11  
+ 22078                  Sales Tax Pay - SC                       464.46cr             174.05cr             638.51cr
+ 22082                  Sales Tax Payable- TN                  6,213.74cr                .00             6,213.74cr
+ 22084                  Sales Tax Payable- TX                  5,711.94               785.97cr           4,925.97  
+ 22090                  Sales Tax Payable- VA                  2,906.56cr                .00             2,906.56cr
+ 22092                  Sales Tax Payable- WA                     77.73                  .00                77.73  
+ 22150                  Sales Tax - Supplier Rec              32,659.65cr               7.62            32,652.03cr
+ 23910                  CA TAX Internal Consump                2,624.26                  .00             2,624.26  
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    4                                                AUTOGENOMICS, INC.                                          Time: 13:35:49
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 24002                  Loan from Officers                          .00            23,356.87cr          23,356.87cr
+ 24003                  Deferred Office Lease                231,941.28cr           2,831.44cr         234,772.72cr
+ 24010                  Revolving Note Payable             1,600,000.00cr                .00         1,600,000.00cr
+ 24015                  Revolving Note- Interest             199,861.72cr          12,573.25cr         212,434.97cr
+ 24020                  N/P - Garrison - LT                2,053,000.00cr                .00         2,053,000.00cr
+ 24021                  N/P - Garrison - LT Int              338,013.77cr          14,342.88cr         352,356.65cr
+ 24100                  Std Warranty Provision                28,500.00cr                .00            28,500.00cr
+ 24200                  Ext Warranty Contracts                62,584.00cr          14,916.00            47,668.00cr
+ 24515                  Customer Deposit                     250,000.00cr                .00           250,000.00cr
+ 25005                  Sub N/P - CY                      18,467,158.95cr                .00        18,467,158.95cr
+ 25006                  Sub N/P - CY Related                 196,545.62cr                .00           196,545.62cr
+ 25110                  Sub N/P - CY Interest              2,492,738.68cr         129,017.14cr       2,621,755.82cr
+ 25111                  Sub N/P - CY Related Int              26,409.98cr           1,373.13cr          27,783.11cr
+ 25120                  Sub N/P - CY Debt Disc             2,669,406.00                  .00         2,669,406.00  
+ 25125                  Sub N/P-CY Debt Dis Amrt           2,669,406.00cr                .00         2,669,406.00cr
+ 25180                  Stock Warrants-Common                 37,216.00cr                .00            37,216.00cr
+ 25211                  Sr N/P - CY Related                2,958,870.70cr                .00         2,958,870.70cr
+ 25212                  Sr N/P - CY Related Int              397,583.11cr          20,671.56cr         418,254.67cr
+ 25220                  Sr N/P - Debt Disc                   608,802.00cr                .00           608,802.00cr
+ 25225                  Sr N/P - Amort Disc                  608,802.00                  .00           608,802.00  
+ 30100                  Common Stock at Par                  113,954.68cr                .00           113,954.68cr
+ 30150                  Common Stock - APIC               11,369,594.56cr                .00        11,369,594.56cr
+ 30160                  C/S - APIC Debt Disc Adj           5,509,737.97cr                .00         5,509,737.97cr
+ 30190                  C/S - EE Option Expense           10,563,055.00cr                .00        10,563,055.00cr
+ 30195                  C/S - NE Option Expense              878,195.00cr                .00           878,195.00cr
+ 30200                  Preferred-Srs A                    5,043,640.97cr                .00         5,043,640.97cr
+ 30230                  Preferred-Srs A cost                  53,284.33                  .00            53,284.33  
+ 30300                  Preferred-Srs B                   12,343,403.25cr                .00        12,343,403.25cr
+ 30330                  Preferred-Srs B Cost                  55,387.09                  .00            55,387.09  
+ 30400                  Preferred-Srs C                   17,907,421.30cr                .00        17,907,421.30cr
+ 30430                  Preferred-Srs C Cost                 260,781.70                  .00           260,781.70  
+ 30500                  Preferred-Srs D                   11,143,328.50cr                .00        11,143,328.50cr
+ 30530                  Preferred-Series D Cost               17,739.96                  .00            17,739.96  
+ 30600                  Preferred-Srs E                    2,026,708.40cr                .00         2,026,708.40cr
+ 30630                  Preferred-Series E Cost              645,564.80                  .00           645,564.80  
+ 30700                  Preferred-Series NC                7,502,379.50cr                .00         7,502,379.50cr
+ 30730                  Preferred-Series NC Cost           1,769,140.00                  .00         1,769,140.00  
+ 39001                  Retnd Earnings/(Deficit)         121,570,201.52                  .00       121,570,201.52  
+ 40100                  Sales - BioFilmChip                  810,320.32cr          96,624.64cr         906,944.96cr
+ 40200                  Sales - Reagents                      96,560.00cr          14,939.50cr         111,499.50cr
+ 40300                  Sales - Disposables                    4,340.00cr             490.00cr           4,830.00cr
+ 40800                  Sale/Disct Mc LVC Rebate              45,412.79             1,536.00            46,948.79  
+ 40900                  Sales - INFIN PLUS Refur              80,000.00cr                .00            80,000.00cr
+ 40910                  Sales - HTS Refurbished              100,000.00cr                .00           100,000.00cr
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    5                                                AUTOGENOMICS, INC.                                          Time: 13:35:49
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 40920                  PDXL - Subcontracting   
+ 40920--920               PDXL Production                     48,430.55cr           2,330.00cr          50,760.55cr
+ 40930                  PDXL - Xifin Billings   
+ 40930--920               PDXL Production                     23,778.14cr           2,105.00cr          25,883.14cr
+ 41300                  Discount-Sales Marketing                 781.60             5,924.00             6,705.60  
+ 42000                  3% Distributor Fee                     5,427.46               747.59             6,175.05  
+ 43100                  Shipping & Handling-Out               28,124.40cr           3,942.38cr          32,066.78cr
+ 45000                  INFINITI Rental Fees                  67,500.00cr           6,500.00            61,000.00cr
+ 45301                  Royalty Income                            28.20cr                .00                28.20cr
+ 45500                  Extended Warranty Fees                64,383.00cr          13,116.00cr          77,499.00cr
+ 49200                  Other Sales/Income                   100,000.00cr                .00           100,000.00cr
+ 50000                  COGS - INFINITI System                 7,753.40cr                .00             7,753.40cr
+ 50100                  COGS - BioFilmChip                   115,081.27            14,501.47           129,582.74  
+ 50200                  COGS - Reagents                       10,065.94             1,145.04            11,210.98  
+ 50300                  COGS - Disposables                     3,234.21               364.39             3,598.60  
+ 51000                  Variance-Phys Inv Adjust
+ 51000--210               INFINITI Production                  5,236.10                  .01             5,236.11  
+ 51000--220               Microarray Production               32,823.78                24.23cr          32,799.55  
+ 51000--225               Intellipac Production                2,631.01               145.58cr           2,485.43  
+ 51020                  Variance-Purchase Price 
+ 51020--220               Microarray Production                2,225.43               929.81             3,155.24  
+ 51020--225               Intellipac Production                2,235.03               493.00             2,728.03  
+ 51040                  Variance-Material Rate  
+ 51040--220               Microarray Production                  312.62                  .00               312.62  
+ 51070                  Material Scrap                           564.26                  .00               564.26  
+ 51070--220               Microarray Production                5,293.03            10,913.56            16,206.59  
+ 51070--225               Intellipac Production                    5.83             7,438.37             7,444.20  
+ 52004                  Warranty Repairs        
+ 52004--440               Field Service                        5,702.06             3,613.37             9,315.43  
+ 52005                  Nonwarranty Repairs     
+ 52005--440               Field Service                          580.51cr                .00               580.51cr
+ 52006                  Floor Stock Supplies    
+ 52006--220               Microarray Production                  118.23                  .00               118.23  
+ 52006--920               PDXL Production                      8,585.64                65.00             8,650.64  
+ 52007                  NRE Expense             
+ 52007--225               Intellipac Production                2,746.25                  .00             2,746.25  
+ 52008                  Cost of Production (Sub)                 800.90                  .00               800.90  
+ 52008--220               Microarray Production                     .00               300.89cr             300.89cr
+ 52009                  Consulting              
+ 52009--920               PDXL Production                     60,000.00            12,000.00            72,000.00  
+ 52010                  Salaries & Wages        
+ 52010--210               INFINITI Production                 41,676.80             7,577.60            49,254.40  
+ 52010--220               Microarray Production               54,109.50             8,472.00            62,581.50  
+ 52010--225               Intellipac Production               11,388.00             2,080.00            13,468.00  
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    6                                                AUTOGENOMICS, INC.                                          Time: 13:35:50
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 52010--920               PDXL Production                     23,610.48                  .00            23,610.48  
+ 52011                  Payroll Tax                              688.13cr                .00               688.13cr
+ 52011--210               INFINITI Production                  5,752.76               515.94             6,268.70  
+ 52011--220               Microarray Production                9,509.49               836.94            10,346.43  
+ 52011--225               Intellipac Production                1,705.27               159.12             1,864.39  
+ 52011--920               PDXL Production                      1,304.39                  .00             1,304.39  
+ 52020                  Employee Benefits       
+ 52020--210               INFINITI Production                  7,714.92             1,416.02             9,130.94  
+ 52020--220               Microarray Production                4,780.15               877.01             5,657.16  
+ 52020--225               Intellipac Production                  367.74               386.95               754.69  
+ 52020--920               PDXL Production                        654.10cr                .00               654.10cr
+ 52040                  Paid Time Off (PTO)     
+ 52040--210               INFINITI Production                       .00            10,657.01cr          10,657.01cr
+ 52040--220               Microarray Production                     .00             1,237.32             1,237.32  
+ 52040--225               Intellipac Production                     .00               142.87cr             142.87cr
+ 52040--920               PDXL Production                           .00             1,016.32             1,016.32  
+ 53010                  Salaries & Wages        
+ 53010--205               INFINITI Prod - Indirect            40,192.35             3,653.85            43,846.20  
+ 53010--215               Reagent Prod - Indirect             32,890.59             2,700.00            35,590.59  
+ 53010--230               Production-Indirect                131,141.19            26,443.34           157,584.53  
+ 53010--250               Shipping/Receiving                  17,984.00             7,003.85            24,987.85  
+ 53010--260               Purchasing                          25,587.65             3,489.03            29,076.68  
+ 53010--270               Quality Control                     81,766.84            13,350.72            95,117.56  
+ 53010--440               Field Service                       75,197.85            13,668.74            88,866.59  
+ 53010--450               Technical Support                   52,419.77             9,428.02            61,847.79  
+ 53010--915               PDXL Prod Other                     45,013.76             8,184.32            53,198.08  
+ 53011                  Payroll Tax-Indirect    
+ 53011--205               INFINITI Prod - Indirect             3,849.19               559.04             4,408.23  
+ 53011--215               Reagent Prod - Indirect              4,180.92               196.20             4,377.12  
+ 53011--230               Production-Indirect                 12,318.70             1,948.47            14,267.17  
+ 53011--250               Shipping/Receiving                   2,665.30               390.35             3,055.65  
+ 53011--260               Purchasing                           2,791.21               909.33             3,700.54  
+ 53011--270               Quality Control                      9,436.19             1,068.62            10,504.81  
+ 53011--440               Field Service                        7,798.79             1,050.22             8,849.01  
+ 53011--450               Technical Support                    5,491.76               651.28             6,143.04  
+ 53011--915               PDXL Prod Other                      5,186.96               599.44             5,786.40  
+ 53020                  Employee Benefits       
+ 53020--215               Reagent Prod - Indirect                432.02                94.12cr             337.90  
+ 53020--230               Production-Indirect                    800.27               532.31cr             267.96  
+ 53020--250               Shipping/Receiving                     843.15               437.91             1,281.06  
+ 53020--260               Purchasing                           1,214.79               563.54             1,778.33  
+ 53020--270               Quality Control                      1,277.55               243.07             1,520.62  
+ 53020--440               Field Service                        3,455.36                  .00             3,455.36  
+ 53020--450               Technical Support                       20.56               459.44               480.00  
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    7                                                AUTOGENOMICS, INC.                                          Time: 13:35:50
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 53020--915               PDXL Prod Other                      2,151.97               435.52             2,587.49  
+ 53020--920               PDXL Production                      4,374.70               342.08             4,716.78  
+ 53040                  Expense PTO - Indirect  
+ 53040--205               INFINITI Prod - Indirect                  .00               668.03cr             668.03cr
+ 53040--215               Reagent Prod - Indirect                   .00               633.60               633.60  
+ 53040--230               Production-Indirect                       .00             1,106.89cr           1,106.89cr
+ 53040--250               Shipping/Receiving                        .00               549.61cr             549.61cr
+ 53040--260               Purchasing                                .00             8,019.54             8,019.54  
+ 53040--270               Quality Control                           .00             1,118.96cr           1,118.96cr
+ 53040--440               Field Service                             .00               699.49               699.49  
+ 53040--450               Technical Support                         .00               966.65               966.65  
+ 53040--915               PDXL Prod Other                           .00             1,960.67cr           1,960.67cr
+ 53195                  Amortization of RAP     
+ 53195--210               INFINITI Production                 40,304.33             7,787.87            48,092.20  
+ 53200                  Depreciation            
+ 53200--210               INFINITI Production                    358.32                  .00               358.32  
+ 53200--220               Microarray Production               20,518.05             3,869.49            24,387.54  
+ 53200--225               Intellipac Production                2,916.65               583.33             3,499.98  
+ 53200--230               Production-Indirect                  5,739.55             1,147.91             6,887.46  
+ 53200--450               Technical Support                    3,011.00               602.20             3,613.20  
+ 53200--915               PDXL Prod Other                      1,808.31               361.66             2,169.97  
+ 53200--920               PDXL Production                     27,234.20             5,246.41            32,480.61  
+ 53202                  Computer & Software Exp 
+ 53202--450               Technical Support                       32.31                  .00                32.31  
+ 53202--915               PDXL Prod Other                         95.00                19.00               114.00  
+ 53204                  Travel                  
+ 53204--205               INFINITI Prod - Indirect                85.68                  .00                85.68  
+ 53204--440               Field Service                        4,172.25             3,978.77             8,151.02  
+ 53204--450               Technical Support                      175.65                  .00               175.65  
+ 53205                  Meals and Entertainment 
+ 53205--205               INFINITI Prod - Indirect                24.52                  .00                24.52  
+ 53205--440               Field Service                          464.50               217.04               681.54  
+ 53210                  Regulatory Expense      
+ 53210--230               Production-Indirect                       .00               694.60               694.60  
+ 53210--440               Field Service                          135.77                  .00               135.77  
+ 53300                  Supplies                
+ 53300--205               INFINITI Prod - Indirect                  .00                 7.23                 7.23  
+ 53300--210               INFINITI Production                     25.91                  .00                25.91  
+ 53300--220               Microarray Production                4,808.09               845.86             5,653.95  
+ 53300--225               Intellipac Production                1,735.98                  .00             1,735.98  
+ 53300--230               Production-Indirect                    265.88                  .00               265.88  
+ 53300--250               Shipping/Receiving                   6,768.82             1,064.00             7,832.82  
+ 53300--920               PDXL Production                      8,561.95               230.49             8,792.44  
+ 53305                  Equipment Rental        
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    8                                                AUTOGENOMICS, INC.                                          Time: 13:35:50
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 53305--920               PDXL Production                     10,926.10             2,185.22            13,111.32  
+ 53310                  Freight & Handling - Out
+ 53310--220               Microarray Production                   39.52                  .00                39.52  
+ 53310--250               Shipping/Receiving                      19.67                  .00                19.67  
+ 53310--260               Purchasing                             118.93                  .00               118.93  
+ 53310--440               Field Service                          671.53               113.76               785.29  
+ 53310--450               Technical Support                      544.59               124.87               669.46  
+ 53310--920               PDXL Production                        244.42                  .00               244.42  
+ 53320                  Freight & Handling - In 
+ 53320--205               INFINITI Prod - Indirect                  .00                 7.97                 7.97  
+ 53320--215               Reagent Prod - Indirect                 16.00                  .00                16.00  
+ 53320--220               Microarray Production                  751.96               682.19             1,434.15  
+ 53320--225               Intellipac Production                  239.22                  .00               239.22  
+ 53320--250               Shipping/Receiving                     781.84               142.48               924.32  
+ 53320--260               Purchasing                             372.55                  .00               372.55  
+ 53320--440               Field Service                          123.70                  .00               123.70  
+ 53320--450               Technical Support                       49.15             2,024.73             2,073.88  
+ 53320--920               PDXL Production                        424.35                44.05               468.40  
+ 53398                  Recruiting Fee          
+ 53398--920               PDXL Production                        340.00cr                .00               340.00cr
+ 53402                  Internal Consumption    
+ 53402--220               Microarray Production                2,122.28                  .00             2,122.28  
+ 53402--225               Intellipac Production                  119.22                15.50               134.72  
+ 53402--230               Production-Indirect                    383.15                  .00               383.15  
+ 53402--270               Quality Control                     15,089.68               104.13            15,193.81  
+ 53700                  Office Lease Allocated  
+ 53700--205               INFINITI Prod - Indirect               556.25               111.25               667.50  
+ 53700--210               INFINITI Production                 79,825.95            15,965.19            95,791.14  
+ 53700--215               Reagent Prod - Indirect                834.40               166.88             1,001.28  
+ 53700--220               Microarray Production               18,357.20             3,671.44            22,028.64  
+ 53700--225               Intellipac Production                7,787.90             1,557.58             9,345.48  
+ 53700--230               Production-Indirect                 18,983.60             3,796.72            22,780.32  
+ 53700--250               Shipping/Receiving                  11,960.00             2,392.00            14,352.00  
+ 53700--260               Purchasing                           1,390.70               278.14             1,668.84  
+ 53700--270               Quality Control                      5,840.90             1,168.18             7,009.08  
+ 53700--440               Field Service                        5,562.80             1,112.56             6,675.36  
+ 53700--450               Technical Support                    1,946.95               389.39             2,336.34  
+ 53700--915               PDXL Prod Other                      2,503.25               500.65             3,003.90  
+ 53700--920               PDXL Production                     11,681.85             2,336.37            14,018.22  
+ 53710                  Phone Allocated         
+ 53710--205               INFINITI Prod - Indirect                16.91                 3.18                20.09  
+ 53710--210               INFINITI Production                    133.36                25.09               158.45  
+ 53710--215               Reagent Prod - Indirect                 65.74                12.38                78.12  
+ 53710--220               Microarray Production                  182.22                34.29               216.51  
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    9                                                AUTOGENOMICS, INC.                                          Time: 13:35:50
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 53710--225               Intellipac Production                   82.64                15.54                98.18  
+ 53710--230               Production-Indirect                     82.65                15.55                98.20  
+ 53710--250               Shipping/Receiving                      33.80                 6.36                40.16  
+ 53710--260               Purchasing                              48.84                 9.19                58.03  
+ 53710--270               Quality Control                         99.57                18.73               118.30  
+ 53710--440               Field Service                          402.44                80.08               482.52  
+ 53710--450               Technical Support                      199.35                12.37               211.72  
+ 53710--915               PDXL Prod Other                        133.37                25.10               158.47  
+ 53710--920               PDXL Production                        707.26               140.64               847.90  
+ 53715                  Gas&Electricity Allocatd
+ 53715--205               INFINITI Prod - Indirect               463.49                83.56               547.05  
+ 53715--210               INFINITI Production                  3,656.34               659.18             4,315.52  
+ 53715--215               Reagent Prod - Indirect              1,802.42               324.94             2,127.36  
+ 53715--220               Microarray Production                4,995.27               900.56             5,895.83  
+ 53715--225               Intellipac Production                2,265.89               408.50             2,674.39  
+ 53715--230               Production-Indirect                  2,265.88               408.51             2,674.39  
+ 53715--250               Shipping/Receiving                     926.96               167.11             1,094.07  
+ 53715--260               Purchasing                           1,338.94               241.39             1,580.33  
+ 53715--270               Quality Control                      2,729.37               492.06             3,221.43  
+ 53715--440               Field Service                          926.97               167.12             1,094.09  
+ 53715--450               Technical Support                    1,802.42               324.94             2,127.36  
+ 53715--915               PDXL Prod Other                      3,656.33               659.17             4,315.50  
+ 53715--920               PDXL Production                        926.96               167.12             1,094.08  
+ 53720                  Water Allocated         
+ 53720--205               INFINITI Prod - Indirect                25.51                 7.09                32.60  
+ 53720--210               INFINITI Production                    201.11                55.95               257.06  
+ 53720--215               Reagent Prod - Indirect                 99.16                27.58               126.74  
+ 53720--220               Microarray Production                  274.76                76.44               351.20  
+ 53720--225               Intellipac Production                  124.62                34.67               159.29  
+ 53720--230               Production-Indirect                    124.61                34.68               159.29  
+ 53720--250               Shipping/Receiving                      51.00                14.19                65.19  
+ 53720--260               Purchasing                              73.68                20.48                94.16  
+ 53720--270               Quality Control                        150.07                41.76               191.83  
+ 53720--440               Field Service                           51.03                14.19                65.22  
+ 53720--450               Technical Support                       99.12                27.58               126.70  
+ 53720--915               PDXL Prod Other                        201.11                55.95               257.06  
+ 53720--920               PDXL Production                         50.98                14.18                65.16  
+ 53725                  Waste Allocated         
+ 53725--205               INFINITI Prod - Indirect                15.56                 2.11                17.67  
+ 53725--210               INFINITI Production                    122.80                16.66               139.46  
+ 53725--215               Reagent Prod - Indirect                 60.53                 8.21                68.74  
+ 53725--220               Microarray Production                  167.72                22.75               190.47  
+ 53725--225               Intellipac Production                   76.14                10.33                86.47  
+ 53725--230               Production-Indirect                     76.07                10.32                86.39  
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    10                                               AUTOGENOMICS, INC.                                          Time: 13:35:50
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 53725--250               Shipping/Receiving                      31.11                 4.22                35.33  
+ 53725--260               Purchasing                              44.98                 6.10                51.08  
+ 53725--270               Quality Control                         91.68                12.44               104.12  
+ 53725--440               Field Service                           31.12                 4.22                35.34  
+ 53725--450               Technical Support                       60.52                 8.21                68.73  
+ 53725--915               PDXL Prod Other                        122.80                16.66               139.46  
+ 53725--920               PDXL Production                         31.12                 4.22                35.34  
+ 53735                  Bldng Rprs&Mtns Allocatd
+ 53735--205               INFINITI Prod - Indirect                 8.85                  .39                 9.24  
+ 53735--210               INFINITI Production                  1,271.81                56.51             1,328.32  
+ 53735--215               Reagent Prod - Indirect                 13.32                  .58                13.90  
+ 53735--220               Microarray Production                  292.50                13.00               305.50  
+ 53735--225               Intellipac Production                  124.03                 5.51               129.54  
+ 53735--230               Production-Indirect                    146.22                 6.51               152.73  
+ 53735--250               Shipping/Receiving                     190.56                 8.46               199.02  
+ 53735--260               Purchasing                              22.18                  .98                23.16  
+ 53735--270               Quality Control                         93.02                 4.14                97.16  
+ 53735--440               Field Service                           88.64                 3.94                92.58  
+ 53735--450               Technical Support                       31.01                 1.38                32.39  
+ 53735--915               PDXL Prod Other                         39.84                 1.77                41.61  
+ 53735--920               PDXL Production                        186.13                 8.26               194.39  
+ 53740                  Office Supplies         
+ 53740--205               INFINITI Prod - Indirect                26.88                 1.86                28.74  
+ 53740--210               INFINITI Production                    212.26                14.69               226.95  
+ 53740--215               Reagent Prod - Indirect                104.66                 7.24               111.90  
+ 53740--220               Microarray Production                  289.99                20.06               310.05  
+ 53740--225               Intellipac Production                  131.56                 9.11               140.67  
+ 53740--230               Production-Indirect                    131.57                 9.10               140.67  
+ 53740--250               Shipping/Receiving                      53.78                 3.72                57.50  
+ 53740--260               Purchasing                              77.75                 5.38                83.13  
+ 53740--270               Quality Control                        158.46                10.97               169.43  
+ 53740--440               Field Service                          138.86                 3.72               142.58  
+ 53740--450               Technical Support                      104.65                 7.24               111.89  
+ 53740--915               PDXL Prod Other                        212.29                14.68               226.97  
+ 53740--920               PDXL Production                         53.82                 3.73                57.55  
+ 53745                  Computer Network Expnse 
+ 53745--205               INFINITI Prod - Indirect                78.90                20.01                98.91  
+ 53745--210               INFINITI Production                    622.47               157.86               780.33  
+ 53745--215               Reagent Prod - Indirect                306.89                77.82               384.71  
+ 53745--220               Microarray Production                  850.48               215.67             1,066.15  
+ 53745--225               Intellipac Production                  385.75                97.83               483.58  
+ 53745--230               Production-Indirect                    385.74                97.83               483.57  
+ 53745--250               Shipping/Receiving                     157.84                40.02               197.86  
+ 53745--260               Purchasing                             227.92                57.81               285.73  
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    11                                               AUTOGENOMICS, INC.                                          Time: 13:35:51
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 53745--270               Quality Control                        464.68               117.84               582.52  
+ 53745--440               Field Service                          157.83                40.02               197.85  
+ 53745--450               Technical Support                      306.86                77.82               384.68  
+ 53745--915               PDXL Prod Other                        622.48               157.86               780.34  
+ 53745--920               PDXL Production                        157.82                40.02               197.84  
+ 53999                  Overhead Absorbed       
+ 53999--210               INFINITI Production                     48.55cr                .00                48.55cr
+ 53999--220               Microarray Production               38,144.44cr          15,154.30cr          53,298.74cr
+ 53999--225               Intellipac Production               11,974.04cr             508.34cr          12,482.38cr
+ 61013                  Salaries & Wages        
+ 61013--110               Executive                          247,891.17            47,758.85           295,650.02  
+ 61013--115               HR - Administration                 14,889.84             2,876.40            17,766.24  
+ 61013--120               Finance                            105,704.55            19,418.22           125,122.77  
+ 61013--130               Facilities                          56,103.67             6,080.00            62,183.67  
+ 61013--140               Information Technology              22,000.00             4,000.00            26,000.00  
+ 61013--150               Regulatory Affairs/QA               99,345.92            15,930.26           115,276.18  
+ 61013--310               R&D - Instruments                  162,623.04            34,862.36           197,485.40  
+ 61013--320               R&D - Reagents                     185,377.28            34,563.06           219,940.34  
+ 61013--410               Sales - Domestic                   146,922.52            14,769.24           161,691.76  
+ 61013--430               Marketing                           23,692.35             4,307.70            28,000.05  
+ 61013--925               PDXL Sales & Marketing              87,921.50            17,453.93           105,375.43  
+ 61013--930               PDXL-G&A                            13,384.08             2,461.44            15,845.52  
+ 61014                  Payroll Tax                                 .00               280.78               280.78  
+ 61014--110               Executive                           19,831.31             3,820.71            23,652.02  
+ 61014--115               HR - Administration                  2,038.67               214.93             2,253.60  
+ 61014--120               Finance                             10,788.50             1,475.95            12,264.45  
+ 61014--130               Facilities                           4,466.49               456.68             4,923.17  
+ 61014--140               Information Technology               2,535.10               291.96             2,827.06  
+ 61014--150               Regulatory Affairs/QA                8,960.88             1,245.73            10,206.61  
+ 61014--310               R&D - Instruments                   16,997.38             2,669.33            19,666.71  
+ 61014--320               R&D - Reagents                      16,990.02             2,631.95            19,621.97  
+ 61014--410               Sales - Domestic                    14,762.23             1,206.02            15,968.25  
+ 61014--430               Marketing                            2,693.20               322.12             3,015.32  
+ 61014--925               PDXL Sales & Marketing               2,646.17                  .00             2,646.17  
+ 61014--930               PDXL-G&A                             1,933.41               187.20             2,120.61  
+ 61015                  Personnel Service Fee                    228.75               127.43               356.18  
+ 61015--115               HR - Administration                    814.22cr              90.00               724.22cr
+ 61015--120               Finance                                942.62cr             228.70               713.92cr
+ 61016                  Sales Bonus             
+ 61016--410               Sales - Domestic                          .00            14,348.45            14,348.45  
+ 61101                  Worker's Comp Insurance 
+ 61101--115               HR - Administration                  6,323.77             4,742.83            11,066.60  
+ 61102                  D&O Liability Insurance 
+ 61102--110               Executive                           19,934.90             3,986.98            23,921.88  
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    12                                               AUTOGENOMICS, INC.                                          Time: 13:35:51
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 61103                  Gen Liability Insurance                   12.75cr                .00                12.75cr
+ 61103--110               Executive                           19,934.90             3,986.98            23,921.88  
+ 61104                  Employee Benefits       
+ 61104--110               Executive                            7,139.36             1,681.00             8,820.36  
+ 61104--115               HR - Administration                  3,544.62                23.68             3,568.30  
+ 61104--120               Finance                              4,507.24             1,104.55             5,611.79  
+ 61104--130               Facilities                              34.23               239.86               274.09  
+ 61104--140               Information Technology               1,330.10               472.46             1,802.56  
+ 61104--150               Regulatory Affairs/QA                4,074.15               664.80             4,738.95  
+ 61104--310               R&D - Instruments                    5,461.79             1,012.34             6,474.13  
+ 61104--320               R&D - Reagents                      20,553.76             4,245.23            24,798.99  
+ 61104--410               Sales - Domestic                    15,347.15                45.60            15,392.75  
+ 61104--430               Marketing                            4,427.70               379.42             4,807.12  
+ 61104--930               PDXL-G&A                             4,542.79             1,798.20             6,340.99  
+ 61150                  Legal - Patent          
+ 61150--110               Executive                                 .00             2,150.00             2,150.00  
+ 61151                  Legal - General         
+ 61151--110               Executive                            8,894.91             1,338.75            10,233.66  
+ 61151--930               PDXL-G&A                            10,434.83             3,382.92cr           7,051.91  
+ 61195                  Consulting              
+ 61195--110               Executive                           50,000.00            10,000.00            60,000.00  
+ 61195--120               Finance                              2,748.75                  .00             2,748.75  
+ 61195--140               Information Technology               5,600.00cr                .00             5,600.00cr
+ 61195--420               Sales - International               50,000.00            10,000.00            60,000.00  
+ 61201                  Paid Time Off (PTO)     
+ 61201--115               HR - Administration                       .00               233.50cr             233.50cr
+ 61201--120               Finance                                   .00             3,237.60cr           3,237.60cr
+ 61201--130               Facilities                                .00               377.88               377.88  
+ 61201--150               Regulatory Affairs/QA                     .00             2,307.70             2,307.70  
+ 61201--310               R&D - Instruments                         .00             3,598.99             3,598.99  
+ 61201--320               R&D - Reagents                            .00             1,250.08             1,250.08  
+ 61201--410               Sales - Domestic                          .00               283.99               283.99  
+ 61201--430               Marketing                                 .00               943.55cr             943.55cr
+ 61201--925               PDXL Sales & Marketing                    .00             3,634.02             3,634.02  
+ 61201--930               PDXL-G&A                                  .00               475.37               475.37  
+ 61203                  Printing and Reproductio
+ 61203--120               Finance                                663.29               112.05               775.34  
+ 61203--150               Regulatory Affairs/QA                  547.40               108.76               656.16  
+ 61203--410               Sales - Domestic                        32.15                  .00                32.15  
+ 61203--930               PDXL-G&A                               547.35               108.75               656.10  
+ 61210                  Travel                  
+ 61210--110               Executive                            1,624.75             1,278.65             2,903.40  
+ 61210--320               R&D - Reagents                         140.00                  .00               140.00  
+ 61210--410               Sales - Domestic                     8,586.75               510.41             9,097.16  
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    13                                               AUTOGENOMICS, INC.                                          Time: 13:35:51
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 61210--420               Sales - International                2,069.55                  .00             2,069.55  
+ 61211                  Travel - Auto Rental    
+ 61211--110               Executive                               53.00                  .00                53.00  
+ 61212                  Meals and Entertainment 
+ 61212--110               Executive                            3,482.64               394.94             3,877.58  
+ 61212--150               Regulatory Affairs/QA                   91.74                  .00                91.74  
+ 61212--320               R&D - Reagents                          51.82                  .00                51.82  
+ 61212--410               Sales - Domestic                       560.33                53.88               614.21  
+ 61212--420               Sales - International                  653.91                  .00               653.91  
+ 61213                  Shipping                
+ 61213--110               Executive                               69.31                  .00                69.31  
+ 61213--120               Finance                                457.74                40.75               498.49  
+ 61213--130               Facilities                              61.26                72.10               133.36  
+ 61213--150               Regulatory Affairs/QA                   92.84                73.06               165.90  
+ 61213--310               R&D - Instruments                        8.83                  .00                 8.83  
+ 61213--320               R&D - Reagents                         239.50                16.00               255.50  
+ 61213--410               Sales - Domestic                    12,331.84             1,608.77            13,940.61  
+ 61213--420               Sales - International                7,015.26               824.02             7,839.28  
+ 61213--460               Training Services                       12.37                  .00                12.37  
+ 61220                  Business Psnl Prop/Fx Tx
+ 61220--110               Executive                                 .00                74.21                74.21  
+ 61220--930               PDXL-G&A                                  .00               620.69               620.69  
+ 61222                  Sales/Use & Local Tax   
+ 61222--120               Finance                                320.00                  .00               320.00  
+ 61223                  State Franchise/Inc Tax                  524.83cr                .00               524.83cr
+ 61223--110               Executive                              800.00                  .00               800.00  
+ 61226                  SPECIAL TAXES & FEES                   2,046.01            72,226.69            74,272.70  
+ 61253                  Computer Equipment      
+ 61253--140               Information Technology              10,340.36               547.56            10,887.92  
+ 61255                  Computer Software Exp   
+ 61255--140               Information Technology               1,595.98                  .00             1,595.98  
+ 61301                  R&D Material Expense    
+ 61301--310               R&D - Instruments                      150.69                  .00               150.69  
+ 61301--320               R&D - Reagents                       5,916.68                17.10             5,933.78  
+ 61350                  R&D Software Development
+ 61350--310               R&D - Instruments                   48,000.00             5,000.00            53,000.00  
+ 61362                  Internal Consumption    
+ 61362--310               R&D - Instruments                      317.47                  .00               317.47  
+ 61362--320               R&D - Reagents                       3,625.60             1,245.50             4,871.10  
+ 61362--415               Application Support                    377.93               377.62               755.55  
+ 61362--460               Training Services                      606.85                  .00               606.85  
+ 61411                  Product Training        
+ 61411--460               Training Services                      895.96                  .00               895.96  
+ 61450                  Auto Allowance          
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    14                                               AUTOGENOMICS, INC.                                          Time: 13:35:52
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 61450--410               Sales - Domestic                       738.48               184.62               923.10  
+ 61451                  Product Validation      
+ 61451--410               Sales - Domestic                       562.67                  .00               562.67  
+ 61453                  Collection Agency Fees                 3,164.40                  .00             3,164.40  
+ 61453--930               PDXL-G&A                             1,537.30               395.50             1,932.80  
+ 61510                  Regulatory Expense      
+ 61510--150               Regulatory Affairs/QA                3,897.35                  .00             3,897.35  
+ 61510--930               PDXL-G&A                             4,358.00                  .00             4,358.00  
+ 61515                  Regulatory Studies      
+ 61515--150               Regulatory Affairs/QA                  661.88               513.67             1,175.55  
+ 61804                  Dues and Convention Fees
+ 61804--110               Executive                              515.68                14.00               529.68  
+ 61804--120               Finance                                169.50                  .00               169.50  
+ 61805                  Seminars and Training   
+ 61805--430               Marketing                              692.10                49.00               741.10  
+ 61805--930               PDXL-G&A                                49.00                  .00                49.00  
+ 62005                  Bank Service Charge                    1,463.92                  .00             1,463.92  
+ 62005--120               Finance                             12,339.79             2,610.49            14,950.28  
+ 62005--410               Sales - Domestic                       330.45                  .00               330.45  
+ 62010                  Office Supplies         
+ 62010--110               Executive                              487.94                 3.73               491.67  
+ 62010--115               HR - Administration                     65.75                 5.58                71.33  
+ 62010--120               Finance                                245.98                 9.10               255.08  
+ 62010--130               Facilities                              53.81                 3.73                57.54  
+ 62010--140               Information Technology                  80.79                 1.86                82.65  
+ 62010--150               Regulatory Affairs/QA                  104.64                 7.24               111.88  
+ 62010--310               R&D - Instruments                      158.48                10.96               169.44  
+ 62010--320               R&D - Reagents                         236.16                16.35               252.51  
+ 62010--410               Sales - Domestic                       205.17                 1.86               207.03  
+ 62010--420               Sales - International                   26.90                 1.86                28.76  
+ 62010--430               Marketing                               53.81                 3.72                57.53  
+ 62010--925               PDXL Sales & Marketing                  26.90                 1.87                28.77  
+ 62010--930               PDXL-G&A                               397.64                27.51               425.15  
+ 62020                  Telephone                                484.61                  .00               484.61  
+ 62020--110               Executive                            1,360.01               316.75             1,676.76  
+ 62020--115               HR - Administration                     50.72                 9.55                60.27  
+ 62020--120               Finance                                167.39               371.49               538.88  
+ 62020--130               Facilities                           5,448.22               714.52             6,162.74  
+ 62020--140               Information Technology                 470.32                93.73               564.05  
+ 62020--150               Regulatory Affairs/QA                   65.75                12.36                78.11  
+ 62020--310               R&D - Instruments                       99.56                18.74               118.30  
+ 62020--320               R&D - Reagents                         148.40                27.92               176.32  
+ 62020--410               Sales - Domestic                       753.17                 3.18               756.35  
+ 62020--420               Sales - International                   16.93                 3.18                20.11  
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    15                                               AUTOGENOMICS, INC.                                          Time: 13:35:52
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 62020--430               Marketing                               33.80                 6.36                40.16  
+ 62020--925               PDXL Sales & Marketing                  16.90                 3.18                20.08  
+ 62020--930               PDXL-G&A                               877.99               178.93             1,056.92  
+ 62021                  Computer Network Expense
+ 62021--110               Executive                              385.73               109.02               494.75  
+ 62021--115               HR - Administration                    236.72                60.03               296.75  
+ 62021--120               Finance                                385.79                97.83               483.62  
+ 62021--130               Facilities                             157.80                40.02               197.82  
+ 62021--140               Information Technology                 378.94                80.01               458.95  
+ 62021--150               Regulatory Affairs/QA                  306.85                77.82               384.67  
+ 62021--310               R&D - Instruments                      464.68               117.84               582.52  
+ 62021--320               R&D - Reagents                         692.61               175.64               868.25  
+ 62021--410               Sales - Domestic                        78.93                20.01                98.94  
+ 62021--420               Sales - International                   78.89                20.01                98.90  
+ 62021--430               Marketing                              157.80                40.03               197.83  
+ 62021--925               PDXL Sales & Marketing                  78.93                20.01                98.94  
+ 62021--930               PDXL-G&A                             1,827.86               409.46             2,237.32  
+ 62030                  Office Lease            
+ 62030--115               HR - Administration                  1,668.85               333.77             2,002.62  
+ 62030--120               Finance                              2,503.25               500.65             3,003.90  
+ 62030--130               Facilities                           5,840.90             1,168.18             7,009.08  
+ 62030--140               Information Technology               2,781.40               556.28             3,337.68  
+ 62030--150               Regulatory Affairs/QA                9,178.60             1,835.72            11,014.32  
+ 62030--310               R&D - Instruments                   13,072.55             2,614.51            15,687.06  
+ 62030--320               R&D - Reagents                      16,688.35             3,337.67            20,026.02  
+ 62030--410               Sales - Domestic                    22,251.15             4,450.23            26,701.38  
+ 62030--420               Sales - International                  278.15                55.63               333.78  
+ 62030--430               Marketing                           13,628.80             2,725.76            16,354.56  
+ 62030--925               PDXL Sales & Marketing                 834.40               166.88             1,001.28  
+ 62030--930               PDXL-G&A                            30,039.05             6,007.81            36,046.86  
+ 62035                  Common Area Maintenance               44,789.00             9,713.00            54,502.00  
+ 62040                  Gas & Electricity       
+ 62040--110               Executive                              926.96               167.12             1,094.08  
+ 62040--115               HR - Administration                  1,390.44               250.67             1,641.11  
+ 62040--120               Finance                              2,265.90               408.50             2,674.40  
+ 62040--130               Facilities                             926.95               167.12             1,094.07  
+ 62040--140               Information Technology                 463.48                83.55               547.03  
+ 62040--150               Regulatory Affairs/QA                1,802.42               324.95             2,127.37  
+ 62040--310               R&D - Instruments                    2,729.38               492.06             3,221.44  
+ 62040--320               R&D - Reagents                       4,068.32               733.45             4,801.77  
+ 62040--410               Sales - Domestic                       463.47                83.56               547.03  
+ 62040--420               Sales - International                  463.48                83.55               547.03  
+ 62040--430               Marketing                              926.95               167.12             1,094.07  
+ 62040--925               PDXL Sales & Marketing                 463.48                83.56               547.04  
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    16                                               AUTOGENOMICS, INC.                                          Time: 13:35:52
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 62040--930               PDXL-G&A                             6,849.19             1,234.79             8,083.98  
+ 62050                  Water                   
+ 62050--110               Executive                               51.00                14.19                65.19  
+ 62050--115               HR - Administration                     76.52                21.27                97.79  
+ 62050--120               Finance                                124.61                34.68               159.29  
+ 62050--130               Facilities                              50.96                14.18                65.14  
+ 62050--140               Information Technology                  25.53                 7.10                32.63  
+ 62050--150               Regulatory Affairs/QA                   99.12                27.58               126.70  
+ 62050--310               R&D - Instruments                      150.11                41.76               191.87  
+ 62050--320               R&D - Reagents                         223.79                62.25               286.04  
+ 62050--410               Sales - Domestic                        25.48                 7.09                32.57  
+ 62050--420               Sales - International                   25.50                 7.10                32.60  
+ 62050--430               Marketing                               50.99                14.19                65.18  
+ 62050--925               PDXL Sales & Marketing                  25.50                 7.08                32.58  
+ 62050--930               PDXL-G&A                               376.74               104.81               481.55  
+ 62060                  Waste                   
+ 62060--110               Executive                               31.12                 4.22                35.34  
+ 62060--115               HR - Administration                     46.72                 6.34                53.06  
+ 62060--120               Finance                                 76.09                10.32                86.41  
+ 62060--130               Facilities                              31.11                 4.22                35.33  
+ 62060--140               Information Technology                  15.56                 2.11                17.67  
+ 62060--150               Regulatory Affairs/QA                   60.53                 8.21                68.74  
+ 62060--310               R&D - Instruments                       91.68                12.44               104.12  
+ 62060--320               R&D - Reagents                         136.61                18.53               155.14  
+ 62060--410               Sales - Domestic                        15.56                 2.11                17.67  
+ 62060--420               Sales - International                   15.56                 2.11                17.67  
+ 62060--430               Marketing                               31.16                 4.23                35.39  
+ 62060--925               PDXL Sales & Marketing                  15.56                 2.11                17.67  
+ 62060--930               PDXL-G&A                               230.00                31.20               261.20  
+ 62071                  Bldng Repair & Maint    
+ 62071--110               Executive                               31.04                 1.38                32.42  
+ 62071--115               HR - Administration                     26.62                 1.19                27.81  
+ 62071--120               Finance                                 39.88                 1.77                41.65  
+ 62071--130               Facilities                             333.15               789.52             1,122.67  
+ 62071--140               Information Technology                  44.33                 1.96                46.29  
+ 62071--150               Regulatory Affairs/QA                  146.15                 6.50               152.65  
+ 62071--310               R&D - Instruments                      208.33                 9.26               217.59  
+ 62071--320               R&D - Reagents                         265.88                11.81               277.69  
+ 62071--410               Sales - Domestic                       354.47                15.74               370.21  
+ 62071--420               Sales - International                    4.45                  .21                 4.66  
+ 62071--430               Marketing                              217.16                 9.64               226.80  
+ 62071--925               PDXL Sales & Marketing                  13.29                  .58                13.87  
+ 62071--930               PDXL-G&A                               478.56                21.27               499.83  
+ 62080                  Depreciation            
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    17                                               AUTOGENOMICS, INC.                                          Time: 13:35:52
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+ 62080--150               Regulatory Affairs/QA                7,351.55             1,470.31             8,821.86  
+ 62080--310               R&D - Instruments                      256.50                51.30               307.80  
+ 62080--320               R&D - Reagents                      10,873.20             2,174.64            13,047.84  
+ 62080--430               Marketing                            1,674.94                  .00             1,674.94  
+ 62080--925               PDXL Sales & Marketing                 493.75                98.75               592.50  
+ 80000                  AP/AR DeMinimus Adjust                    19.94                  .00                19.94  
+ 80010                  Sub N/P Interest Expense             760,344.83           151,061.83           911,406.66  
+ 80011                  Interest Expense                       3,181.41               602.06             3,783.47  
+ 80012                  Revolving N/P Int Exp                 60,338.30            12,573.25            72,911.55  
+ 80016                  Garrison N/P Int Exp                  72,192.47            14,342.88            86,535.35  
+ 80020                  Finance Charge                        15,662.60               476.74            16,139.34  
+ 89555                  Other (G)/L-NonOpex                  158,793.90                  .00           158,793.90  
+ 99999                  Suspense                               2,382.39cr           2,501.32cr           4,883.71cr
+
+                                                     -------------------- -------------------- --------------------
+
+                                                                    .00                  .00                  .00  
+                                                     ==================== ==================== ====================
+
+
+                                                           End of Report
+gltbrp.p 2+                                         25.15.4 Trial Balance Summary                                     Date: 07/16/19
+Page:    18                                               AUTOGENOMICS, INC.                                          Time: 13:35:52
+
+AutoGenomics, Inc.                                         Reporting Currency:   USD
+                                                           Exchange Rate:
+
+
+                                                       Beginning Balance     Period Activity      Ending Balance
+Account                Description                          06/01/18                                 06/30/18       Adjust Balance
+----------------------- ------------------------      -------------------  -------------------  ------------------- ------ -------
+
+
+
+
+Report Criteria:                        Report Submitted By:       skureshy
+
+                       Entity: 10         To: 10
+                  Description: AutoGenomics, Inc.
+
+               Beginning Date: 06/01/18
+                  Ending Date: 06/30/18
+       Summarize Sub-Accounts: Yes
+       Summarize Cost Centers: No
+                     Currency: USD
+        Suppress Zero Amounts: Yes
+    Round to Nearest Thousand: No
+  Round to Nearest Whole Unit: No
+           Reporting Currency: USD                           Output: Text
+                                                           Batch ID:
+
