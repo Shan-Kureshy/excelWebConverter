@@ -4,14 +4,14 @@ from werkzeug.utils import secure_filename
 import excelConverter
 
 app = Flask(__name__)
-UPLOAD_FOLDER='./uploads'
+UPLOAD_FOLDER='uploads'
 app.config['UPLOAD_FOLDER']=UPLOAD_FOLDER
 
-@app.route('/')
+@app.route('/', host="skureshy.pythonanywhere.com")
 def upload():
     return render_template('upload.html')
 
-@app.route('/uploader', methods=['GET','POST'])
+@app.route('/uploader', methods=['GET','POST'], host="skureshy.pythonanywhere.com")
 def upload_file():
     if request.method == 'POST':
         f = request.files['file']
@@ -20,6 +20,8 @@ def upload_file():
         spreadsheetPath = 'report'
         excelConverter.getSpreadsheet(filePath, spreadsheetPath)
         return send_file(spreadsheetPath+'.xlsx',as_attachment=True, attachment_filename=spreadsheetPath+'.xlsx')
+    else:
+        return upload()
 
 @app.errorhandler(404)
 def page_not_found(e):
