@@ -1,11 +1,16 @@
 {% extends "index.html" %}
 {% block content %}
 
+    <h3>Use: Download report from QAD, then upload file and press 'submit' to convert into spreadsheet</h3>
+    <h4>Works on</h4>
+    <ul>
+        <li>AP/AR Aging Report</li>
+        <li>Trial Balance Summary</li>
+        <li>Account Balance Detail</li>
+        <li>Custom Account Balance Detail w/ Names</li>
+    </ul>
     <form action = "http://localhost:5000/uploader" method = "POST"
          enctype = "multipart/form-data">
-        <input type="radio" name="form" value=1> Trial Balance 25.15.2<br>
-        <input type="radio" name="form" value=2> Account Detail 25.15.4<br>
-        <input type="radio" name="form" value=3> AP Aging report<br>
         <input type = "file" name = "file" />
         <input type = "submit"/>
     </form>
