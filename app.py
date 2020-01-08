@@ -15,7 +15,6 @@ def upload():
 def upload_file():
     if request.method == 'POST':
         f = request.files['file']
-        option = request.form['form']
         filePath = os.path.join(app.config['UPLOAD_FOLDER'],secure_filename(f.filename))
         f.save(filePath)
         spreadsheetPath = 'report'
