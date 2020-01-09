@@ -13,6 +13,7 @@ def upload():
 
 @app.route('/uploader', methods=['GET','POST'], host="skureshy.pythonanywhere.com")
 def upload_file():
+    # testing
     if request.method == 'POST':
         f = request.files['file']
         filePath = os.path.join(app.config['UPLOAD_FOLDER'],secure_filename(f.filename))
