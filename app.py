@@ -7,11 +7,11 @@ app = Flask(__name__)
 UPLOAD_FOLDER='uploads'
 app.config['UPLOAD_FOLDER']=UPLOAD_FOLDER
 
-@app.route('/', host="skureshy.pythonanywhere.com")
+@app.route('/')
 def upload():
     return render_template('upload.html')
 
-@app.route('/uploader', methods=['GET','POST'], host="skureshy.pythonanywhere.com")
+@app.route('/uploader', methods=['GET','POST'])
 def upload_file():
     # testing
     if request.method == 'POST':
