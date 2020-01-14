@@ -14,15 +14,19 @@ def upload():
 @app.route('/uploader', methods=['GET','POST'])
 def upload_file():
     # testing
-    if request.method == 'POST':
-        f = request.files['file']
-        filePath = os.path.join(app.config['UPLOAD_FOLDER'],secure_filename(f.filename))
-        f.save(filePath)
-        spreadsheetPath = 'report'
-        excelConverter.getSpreadsheet(filePath, spreadsheetPath)
-        return send_file(spreadsheetPath+'.xlsx',as_attachment=True, attachment_filename=spreadsheetPath+'.xlsx')
-    else:
-        return upload()
+    try:
+        if request.method == 'POST':
+            f = request.files['file']
+            filePath = os.path.join(app.config['UPLOAD_FOLDER'],secure_filename(f.filename))
+            f.save(filePath)
+            spreadsheetPath = 'report'
+            excelConverter.getSpreadsheet(filePath, spreadsheetPath)
+            return send_file(spreadsheetPath+'.xlsx',as_attachment=True, attachment_filename=spreadsheetPath+'.xlsx')
+        else:
+            return upload()
+    except excelConverter.ReportError:
+        return 500
+
 
 @app.errorhandler(404)
 def page_not_found(e):

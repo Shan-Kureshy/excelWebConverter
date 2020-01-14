@@ -10,6 +10,8 @@ To do next:
 add regex to string reading in report, account, and item classes
 begin excel functions
 '''
+class ReportError(Exception):
+    print("Unexpected formatting. report failed to convert")
 
 def checkReportType(filePath):
     with open(filePath) as file:
@@ -42,7 +44,7 @@ def runAccountDetail(filePath, spreadsheetName):
     accountDetail.createSpreadsheet(filePath, spreadsheetName)
 
 def noReportError(filePath=None, spreadsheetName=None):
-    print('Error: Couldn\'t Convert the Report. please email the report to shank@autogenomics.com')
+    raise ReportError()
 
 def runSupplierAddress(filePath, spreadsheetName):
     report = vendorList.VendorList(filePath)
