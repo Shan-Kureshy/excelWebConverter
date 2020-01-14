@@ -103,7 +103,7 @@ class Account(object):
 
 class AgingReport(Report):
     def __init__(self, filePath):
-        super.__init__()
+        super().__init__(filePath)
 
         self.totalAging = None
         self.date = None

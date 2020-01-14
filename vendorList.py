@@ -119,7 +119,7 @@ class VendorList(Report):
         for vendor in self.vendors:
             addRow(vendor.getLine())
 
-        wb.save(spreadsheetName)
+        wb.save(spreadsheetName +'.xlsx')
 
 
 def _runTest():
