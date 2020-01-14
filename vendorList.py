@@ -4,40 +4,44 @@ from openpyxl import Workbook
 import os.path
 from report import Report
 
+
 class Vendor(object):
-    def __init__(self, line1, line2, line3=None):
+    def __init__(self, line1, line2, line3=None, bounds=None):
         self.info = {
-            'addressLine1':None,
-            'addressLine2':None,
-            'vendorNum':None,
-            'name':None,
-            'attention':None,
-            'city':None,
-            'state':None,
-            'country':None,
-            'postal':None,
-            'phone':None,
-            'ext':None
+            'addressLine1': None,
+            'addressLine2': None,
+            'vendorNum': None,
+            'name': None,
+            'attention': None,
+            'city': None,
+            'state': None,
+            'country': None,
+            'postal': None,
+            'phone': None,
+            'ext': None
         }
 
-        self.getData(line1, line2, line3)
+        self.getData(line1, line2, line3, bounds)
 
     # if address doesnt have number or po box, add to name
     # address line 1 is attention
-    def getData(self, line1, line2, line3):
+    def getData(self, line1, line2, line3, bounds):
         try:
-            self.info['vendorNum'] = line1[:8]
-            self.info['name'] = line1[9:37]
-            self.info['addressLine1'] =line1[38:66]
-            self.info['city'] = line1[67:91]
-            self.info['state'] = line1[92:96]
-            self.info['postal'] = line1[97:107]
-            self.info['phone'] = line1[108:124]
-            self.info['ext'] = line1[125:130]
 
-            self.info['attention'] = line2[14:37]
-            self.info['addressLine2'] = line2[38:66]
-            self.info['country'] = line2[67:91]
+            self.info['vendorNum'] = line1[bounds['vendorNum'][0]:bounds['vendorNum'][1]]
+            self.info['name'] = line1[bounds['name'][0]:bounds['name'][1]]
+            self.info['addressLine1'] = line1[bounds['addressLine1'][0]:bounds['addressLine1'][1]]
+            self.info['city'] = line1[bounds['city'][0]:bounds['city'][1]]
+            self.info['state'] = line1[bounds['state'][0]:bounds['state'][1]]
+            self.info['postal'] = line1[bounds['postal'][0]:bounds['postal'][1]]
+            self.info['phone'] = line1[bounds['phone'][0]:bounds['phone'][1]]
+            self.info['ext'] = line1[bounds['ext'][0]:bounds['ext'][1]]
+            # shares column with name(+5 to remove 'attn:' at beginning of string)
+            self.info['attention'] = line2[bounds['attention'][0]:bounds['attention'][1]]
+            # shares column with address line 1
+            self.info['addressLine2'] = line2[bounds['addressLine2'][0]:bounds['addressLine2'][1]]
+            # shares column with city
+            self.info['country'] = line2[bounds['country'][0]:bounds['country'][1]]
         except IndexError:
             pass
 
@@ -53,17 +57,48 @@ class Vendor(object):
             self.info['addressLine2'] = line3[38:66]
 
     def getLine(self):
-        return ['', self.info['name'], self.info['vendorNum'], self.info['name'], self.info['name'],'','','','',
+        return ['', self.info['name'], self.info['vendorNum'], self.info['name'], self.info['name'], '', '', '', '',
                 self.info['attention'], self.info['addressLine1'], self.info['addressLine2'], '', self.info['city'],
-                self.info['state'], self.info['postal'], self.info['country'], '','', self.info['phone']]
+                self.info['state'], self.info['postal'], self.info['country'], '', '', self.info['phone']]
 
 
 class VendorList(Report):
     def __init__(self, filePath):
         super().__init__(filePath)
         self.vendors = []
+        self.getVendorBounds()
         self.cleanReport()
         self.getVendors()
+
+    def getVendorBounds(self):
+        boundLine = self.data[3]
+
+        def findnth(n, needle=' '):
+            parts = boundLine.split(needle, n + 1)
+            if len(parts) <= n + 1:
+                return -1
+            return len(boundLine) - len(parts[-1]) - len(needle)
+
+        self.bounds = {'vendorNum': None,
+                       'name': None,
+                       'addressLine1': None,
+                       'city': None,
+                       'state': None,
+                       'postal': None,
+                       'phone': None,
+                       'ext': None}
+
+        for key, i in zip(self.bounds, range(0, 8)):
+            if i is 0:
+                self.bounds[key] = (0, findnth(i))
+            elif i is 7:
+                self.bounds[key] = (findnth(i - 1) + 1, len(boundLine) - 1)
+            else:
+                self.bounds[key] = (findnth(i - 1) + 1, findnth(i))
+
+        self.bounds['addressLine2'] = self.bounds['addressLine1']
+        self.bounds['country'] = self.bounds['city']
+        self.bounds['attention'] = (self.bounds['name'][0] + 5, self.bounds['name'][1])
 
     # remove page headers from report
     def cleanReport(self):
@@ -71,9 +106,9 @@ class VendorList(Report):
         for i in range(0, len(self.data)):
             if i not in toRemove:
                 if re.findall(r'Supplier Address Report', self.data[i]):
-                    toRemove += [x for x in range(i, i+4)]
+                    toRemove += [x for x in range(i, i + 4)]
                 elif re.findall(r'End of Report', self.data[i]):
-                    toRemove += [x for x in range(i, i+9)]
+                    toRemove += [x for x in range(i, i + 9)]
         for i in reversed(toRemove):
             self.data.pop(i)
         pass
@@ -89,9 +124,9 @@ class VendorList(Report):
                 # add the last vendor
                 if firstLine and secondLine:
                     if thirdLine:
-                        self.vendors.append(Vendor(firstLine, secondLine, thirdLine))
+                        self.vendors.append(Vendor(firstLine, secondLine, thirdLine, bounds=self.bounds))
                     else:
-                        self.vendors.append(Vendor(firstLine, secondLine))
+                        self.vendors.append(Vendor(firstLine, secondLine, bounds=self.bounds))
                     secondLine = None
                     thirdLine = None
 
@@ -102,7 +137,6 @@ class VendorList(Report):
             else:
                 thirdLine = line
 
-
         pass
 
     # save spreadsheet with vendor data
@@ -112,7 +146,10 @@ class VendorList(Report):
         wb = Workbook()
         ws = wb.active
 
-        def addRow(data=[''], isDataItem=False):
+        def addRow(data=None, isDataItem=False):
+            if data is None:
+                data = ['']
+
             global currentLine
             maxCol = len(data)
             for j in range(0, maxCol):
@@ -122,12 +159,13 @@ class VendorList(Report):
         for vendor in self.vendors:
             addRow(vendor.getLine())
 
-        wb.save(spreadsheetName +'.xlsx')
+        wb.save(spreadsheetName + '.xlsx')
 
 
 def _runTest():
     test = VendorList(r'C:\Users\Shan\Desktop\Work\vendor list\QAD vendor list')
-    test.createSpreadsheet('vendorTest.xlsx')
+    test.createSpreadsheet('vendorTest')
+
 
 if __name__ == '__main__':
     _runTest()
