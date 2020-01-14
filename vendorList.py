@@ -23,7 +23,7 @@ class Vendor(object):
         self.getData(line1, line2, line3)
 
     # if address doesnt have number or po box, add to name
-    # address line 1 is attention, line 2 & 3 is 
+    # address line 1 is attention
     def getData(self, line1, line2, line3):
         try:
             self.info['vendorNum'] = line1[:8]
@@ -65,6 +65,7 @@ class VendorList(Report):
         self.cleanReport()
         self.getVendors()
 
+    # remove page headers from report
     def cleanReport(self):
         toRemove = []
         for i in range(0, len(self.data)):
@@ -77,6 +78,7 @@ class VendorList(Report):
             self.data.pop(i)
         pass
 
+    # pull all vendors from report and add to vendors list
     def getVendors(self):
         firstLine = self.data[0]
         secondLine = None
@@ -103,6 +105,7 @@ class VendorList(Report):
 
         pass
 
+    # save spreadsheet with vendor data
     def createSpreadsheet(self, spreadsheetName):
         global currentLine
         currentLine = 1
