@@ -82,7 +82,7 @@ class ARaccount(Account):
             pass
 
 
-class ARreport(Report):
+class ARreport(AgingReport):
     def __init__(self, filePath):
         super().__init__(filePath)
         self.date = None

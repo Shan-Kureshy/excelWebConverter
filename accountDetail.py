@@ -289,7 +289,7 @@ def main():
 
     while not os.path.isfile(filePath):
         if filePath == 'skureshy':
-            __runTest__()
+            _runTest()
             sys.exit()
 
         if os.path.isfile(filePath + '.txt'):
@@ -303,7 +303,7 @@ def main():
     createSpreadsheet(filePath, spreadsheetName)
 
 
-def __runTest__():
+def _runTest():
     filePaths = ['test/3', 'test/4', 'test/ad1', 'test/ad2', 'test/broken', 'test/broken2',
                  'test/cash.txt', 'test/custom1.txt', 'test/custom2.txt', 'test/custom3.txt']
     for path in filePaths:

@@ -93,7 +93,7 @@ class APaccount(Account):
 
 
 
-class APreport(Report):
+class APreport(AgingReport):
     def __init__(self, filePath):
         super().__init__(filePath)
         self.totalAgingExchange = None

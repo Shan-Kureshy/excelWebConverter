@@ -1,6 +1,7 @@
 import os
 import trialBalance
 import accountDetail
+import vendorList
 from APAgingReport import *
 from ARAgingReport import *
 
@@ -21,6 +22,8 @@ def checkReportType(filePath):
             return 'ABD'
         elif re.match(r'^.*Trial.*$', data):
             return 'TBS'
+        elif re.match(r'Supplier Address Report', data):
+            return 'SAR'
         else:
             return None
 
@@ -41,12 +44,16 @@ def runAccountDetail(filePath, spreadsheetName):
 def noReportError(filePath=None, spreadsheetName=None):
     print('Error: Couldn\'t Convert the Report. please email the report to shank@autogenomics.com')
 
+def runSupplierAddress(filePath, spreadSheetName):
+    report = vendorList.VendorList(filePath)
+    report.createSpreadsheet(spreadsheetName)
 
 def getSpreadsheet(filePath, spreadsheetName):
     reports = {'AP': runAPreport,
                'AR': runARreport,
                'ABD': runAccountDetail,
                'TBS': runTrialBalance,
+               'SAR': runSupplierAddress,
                None: noReportError}
     reportType = checkReportType(filePath)
     try:

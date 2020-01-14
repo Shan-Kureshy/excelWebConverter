@@ -2,6 +2,7 @@ import re
 from datetime import datetime
 from openpyxl import Workbook
 from openpyxl.styles.borders import Border, Side
+from report import Report
 """
 Report: Inherited class for AP/AR reports
 functions
@@ -100,18 +101,11 @@ class Account(object):
         return [''] + self.getAccountHeader() + ['']*3 + self.formulas + [self.dataItems[-1].total]
 
 
-class Report(object):
+class AgingReport(Report):
     def __init__(self, filePath):
-        self.totalAging = None
-        self.filePath = filePath
-        with open(self.filePath) as file:
-            self.data = []
-            for line in file:
-                self.data.append(line.rstrip('\n'))
-            while '' in self.data:
-                self.data.remove('')
-        file.close()
+        super.__init__()
 
+        self.totalAging = None
         self.date = None
         self.accounts = []
         self.coords = []
